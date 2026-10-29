@@ -1,6 +1,3 @@
-# prosthetic-pylon-cover
-Development of a customizable multi-material prosthetic pylon cover system.
-
 # Multi-Material Prosthetic Pylon Cover System
 
 This is a personal project I've been working on for my father, who is a bilateral amputee and uses prosthetic legs.
