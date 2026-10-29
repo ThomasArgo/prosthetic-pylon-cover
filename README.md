@@ -16,6 +16,10 @@ The current covers are mostly rigid printed shells. They give the pylon more sha
 
 There are also more separate parts and assembly involved than I'd like.
 
+One problem I ran into with the current version was the connector piece that wraps around the pylon. I printed it in PETG like the rest of the cover, but to install it I have to spread the connector enough to slide it around the pylon. PETG has some flexibility, but bending it that far puts a lot of stress on the part and I ended up cracking one during testing.
+
+This is one of the main areas I want to experiment with using multiple materials. Instead of making the connector completely rigid, I want to test whether TPU or another flexible material could be incorporated into that area while keeping the main structure rigid. I don't know yet what design or material combination will work best, but that's something I want to figure out through actual prototypes and testing.
+
 ### Current prototype
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52056ff6-e054-4e48-b832-80a7cf749cb8" width="400" alt="Prosthetic pylon cover prototype 1">
