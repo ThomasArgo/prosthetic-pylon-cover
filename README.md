@@ -17,11 +17,25 @@ The current covers are mostly rigid printed shells. They give the pylon more sha
 There are also more separate parts and assembly involved than I'd like.
 
 ### Current prototype
-<img width="1079" height="1431" alt="1" src="https://github.com/user-attachments/assets/52056ff6-e054-4e48-b832-80a7cf749cb8" />
-<img width="1079" height="1431" alt="2" src="https://github.com/user-attachments/assets/19494b8f-8c0b-4f0c-8f61-89c7b6536efd" />
-<img width="1079" height="1431" alt="3" src="https://github.com/user-attachments/assets/29485ecf-5fb0-45cd-ba72-bdba57929618" />
-<img width="1079" height="1431" alt="4" src="https://github.com/user-attachments/assets/98dc89fc-6778-4005-b8b8-8f59a1fb7f8d" />
-<img width="1079" height="1431" alt="5" src="https://github.com/user-attachments/assets/2ef3c73c-97a1-4c9d-a8b6-e84c8d55e7ac" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52056ff6-e054-4e48-b832-80a7cf749cb8" width="400" alt="Prosthetic pylon cover prototype 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19494b8f-8c0b-4f0c-8f61-89c7b6536efd" width="400" alt="Prosthetic pylon cover prototype 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29485ecf-5fb0-45cd-ba72-bdba57929618" width="400" alt="Prosthetic pylon cover prototype 3">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98dc89fc-6778-4005-b8b8-8f59a1fb7f8d" width="400" alt="Prosthetic pylon cover CAD model 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ef3c73c-97a1-4c9d-a8b6-e84c8d55e7ac" width="400" alt="Prosthetic pylon cover CAD model 2">
+</p>
 
 ## What I want to do next
 
